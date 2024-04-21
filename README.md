@@ -1,0 +1,2 @@
+api_key: "fca_live_NruwC2NUVEateF5u3F3Toug8y2TN2X1bLkVfGJmC"
+# CurrencyExchangeApp
